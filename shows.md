@@ -21,19 +21,3 @@ Vocals, Guitar / Nathan McLaughlin
 Vocals, Guitar / Mark Peeters 
 
 Vocals, Every Other Noise / Chris Simons
-
-HOME
- 
-BAND
- 
-SHOWS
- 
-MUSIC
- 
-MEDIA
- 
-MERCH
- 
-NEWS
- 
-CONTACT
