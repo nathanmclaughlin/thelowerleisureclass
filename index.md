@@ -4,9 +4,3 @@
 
 layout: home
 ---
-
-# WHAT IS THE LOWER LEISURE CLASS?
-
-The Lower Leisure Class is a group of six people who make songs together in a basement in Kalamazoo, Michigan.
- 
-
