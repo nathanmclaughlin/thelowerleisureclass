@@ -17,6 +17,7 @@ title: The Lower Leisure Class
 email: llc@leppotone.com 
 description: >- # this means to ignore newlines until "baseurl:"
   The Lower Leisure Class is a group of six people who make songs together in a basement in Kalamazoo, Michigan.
+# Use these if testing on Github pages within a directory
 # baseurl: "/thelowerleisureclass" # the subpath of your site, e.g. /blog
 # url: "https://www.nathanmclaughlin.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: ""
